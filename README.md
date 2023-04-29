@@ -1,3 +1,3 @@
 # ios-calculator
 
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/images/screenshot.png)
+![Иллюстрация к проекту](https://github.com/laylaroad/ios-calculator/raw/master/images/screenshot.png)
