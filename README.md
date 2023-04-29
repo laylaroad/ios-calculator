@@ -1,3 +1,3 @@
 # ios-calculator
 
-![Screenshot](images/screenshot.png)
+![Screenshot](images/screnshot.png)
